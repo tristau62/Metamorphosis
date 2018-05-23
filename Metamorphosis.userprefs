@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\UIManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameQuitter.cs" Line="19" Column="3" />
+      <File FileName="Assets\Scripts\FishUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BearUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UIManager.cs" Line="34" Column="260" />
+      <File FileName="Assets\Scripts\BirdUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NewGame.cs" Line="4" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
